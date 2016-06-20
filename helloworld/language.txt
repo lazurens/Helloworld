@@ -1,0 +1,5 @@
+fr, Bonjour le monde
+en, Helloworld
+it, Ciao mondo
+sp, Hola Mundo
+gr, Hallo Welt
